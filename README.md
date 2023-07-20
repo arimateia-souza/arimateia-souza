@@ -1,29 +1,19 @@
-### Oi me chamo Ari Souza, estudante de Análise e desenvolvimento de sistemas pela UFRN!
 
+# About Me
+👨‍🏫 Hello! I am a student pursuing a degree in <strong>Analysis and Systems Development</strong> at Federal University of Rio Grande do Norte (UFRN/EAJ).
 <div align="center">
+   <p> <img src="https://komarev.com/ghpvc/?username=arimateia-souza&color=brightgreen" alt="arimateia-souza"></p>
   <a href="https://github.com/arimateia-souza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arimateia-souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimateia-souza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=arimateia-souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimateia-souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+    
+# Interests
+I have a keen interest in exploring various aspects of software development, including web development and database management. I am excited to continue learning and growing in the field.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ari-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Ari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Ari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ari-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ari-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Ari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Ari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ari-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-    <img align="center" alt="Ari-Figma" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
-    <img align="center" alt="Ari-Postgres" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
-<br/>
+# Contact
+- 🧑‍💻 Linkedin: [Entrar em contato](https://www.linkedin.com/in/arimat%C3%A9ia-souza-402a8819a/)
+- 📧 Email: [Entrar em contato](email.arisantos@gmail.com)
 
-            
-          
 
-  <p> <img src="https://komarev.com/ghpvc/?username=arimateia-souza&color=brightgreen" alt="arimateia-souza"></p>
- 
+Feel free to reach out to me for any exciting opportunities, collaborative projects, or just to connect and geek out about tech!
