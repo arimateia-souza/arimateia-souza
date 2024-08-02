@@ -2,7 +2,7 @@
 <div align= "justify">
 Olá, eu sou Ari 👋🏽
 </br></br>
-Graduando em Análise e Desenvolvimento de Sistemas pela UFRN/EAJ. Apaixonado por tecnologia, música e aprendizado contínuo. Atualmente focado em aprimorar minhas habilidades em desenvolvimento web e análise de dados. Quando não estou programando, gosto de tocar violino e cozinhar.
+Graduando em Análise e Desenvolvimento de Sistemas pela UFRN/EAJ. Apaixonado por tecnologia e música.  Atualmente focado em aprimorar minhas habilidades em desenvolvimento web e análise de dados. Quando não estou programando, gosto de tocar violino e cozinhar.
 </div>
 
 
